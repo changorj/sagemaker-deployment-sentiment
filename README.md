@@ -1,0 +1,1 @@
+This Repo is to work on the creation of my first python package and notebooks to deploy a sentiments analysis app. Both are the first projects of Udacity's Machine Learning Engineer Nanodegree program.
